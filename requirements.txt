@@ -1,0 +1,11 @@
+langgraph>=0.1.0
+langchain==0.3.1
+langchain-openai==0.2.1
+langchain-community==0.3.1
+openai==1.45.0
+duckduckgo-search==6.2.13
+gradio==4.19.2
+gradio_client==0.10.1
+huggingface_hub==0.23.4
+httpx==0.24.1
+python-dotenv==1.0.1
